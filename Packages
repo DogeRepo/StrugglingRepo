@@ -1,12 +1,12 @@
 Package: com.marcuszhou.NineAnimator
-Version: 1.0.0
+Version: 1.0.1
 Section: Mutlimedia
 Maintainer: StrugglingDoge
 Depends: firmware (>=11.2)
 Architecture: iphoneos-arm
 Filename: ./debs/com.marcuszhou.NineAnimator.deb
-Size: 95679382
-MD5sum: 79bc1d5f45f19d9ddd14797841e900a3
+Size: 98592550
+MD5sum: a37b30bca77aaf34f98f3a77b54e61c4
 Description: A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS. Currently it supports 9anime.ru and masterani.me.
 Name: NineAnimator
 Author: Marcus Zhou
