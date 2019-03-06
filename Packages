@@ -12,3 +12,16 @@ Name: NineAnimator
 Author: Marcus Zhou
 Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
 
+Package: com.struggling.lotusdarkextended
+Version: 1.0
+Section: Tweaks
+Maintainer: StrugglingDoge
+Depends: com.navidmx.lotusdark
+Architecture: iphoneos-arm
+Filename: ./debs/com.struggling.lotusdarkextended.deb
+Size: 789046
+MD5sum: cae05201c086e8b06db27aacebebc0c9
+Description: This theme enhances your experience with Lotus Dark by adding some extra apps! Some apps include but not limited to: unc0ver, Provenance, GBA4iOS, PowerSchool, ReProvision, PowerSelector, Cr4shed, and more!
+Name: Lotus Dark Extended
+Author: Navid Mamoon and StrugglingDoge
+Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.struggling.lotusdarkextended
