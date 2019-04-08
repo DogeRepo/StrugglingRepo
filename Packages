@@ -1,27 +1,26 @@
 Package: com.marcuszhou.NineAnimator
-Version: 1.0.2
+Version: 1.0.3
 Section: Mutlimedia
 Maintainer: StrugglingDoge
 Depends: firmware (>=11.2)
 Architecture: iphoneos-arm
 Filename: ./debs/com.marcuszhou.NineAnimator.deb
-Size: 99397462
-MD5sum: d658e4b65bfda10cf5c2ff18125acabc
+Size: 99002536
+MD5sum: fb6c906d427ac2a77ec23c5b5788384e
 Description: A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS. Currently it supports 9anime.ru and masterani.me.
 Name: NineAnimator
 Author: Marcus Zhou
 Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
 
-Package: com.struggling.lotusdarkextended
-Version: 1.0
-Section: Tweaks
+Package: com.struggling.darkify
+Version: 0.1
+Section: Themes
 Maintainer: StrugglingDoge
-Depends: com.navidmx.lotusdark
 Architecture: iphoneos-arm
-Filename: ./debs/com.struggling.lotusdarkextended.deb
-Size: 789046
-MD5sum: cae05201c086e8b06db27aacebebc0c9
-Description: This theme enhances your experience with Lotus Dark by adding some extra apps! Some apps include but not limited to: unc0ver, Provenance, GBA4iOS, PowerSchool, ReProvision, PowerSelector, Cr4shed, and more!
-Name: Lotus Dark Extended
-Author: Navid Mamoon and StrugglingDoge
-Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.struggling.lotusdarkextended
+Filename: ./debs/com.struggling.darkify.deb
+Size: 4106574
+MD5sum: 3565e63434bacb931a2163553f032fd8
+Description: Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.
+Name: Darkify
+Author: StrugglingDoge
+Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.struggling.darkify
