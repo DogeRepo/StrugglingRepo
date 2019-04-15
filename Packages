@@ -13,13 +13,13 @@ Author: Marcus Zhou
 Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
 
 Package: com.struggling.darkify
-Version: 0.1
+Version: 0.2
 Section: Themes
 Maintainer: StrugglingDoge
 Architecture: iphoneos-arm
 Filename: ./debs/com.struggling.darkify.deb
-Size: 4106574
-MD5sum: 3565e63434bacb931a2163553f032fd8
+Size: 5022546
+MD5sum: e492da413a5fa6196305fbb11a8c896e
 Description: Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.
 Name: Darkify
 Author: StrugglingDoge
