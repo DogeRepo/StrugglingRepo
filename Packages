@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.marcuszhou.NineAnimator.deb
 Size: 99002536
 MD5sum: fb6c906d427ac2a77ec23c5b5788384e
+SHA1: F60799AF639F7562892C62D446E085B752F28F91
+SHA256: 2E6790F311C8B7D9930220625C3E3AA6260EC2E7A63CC94635A7E6AE02D7B376
 Description: A simple yet elegant way of waching anime on your favorite anime website. NineAnimator is a free and open source anime watching app for iOS. Currently it supports 9anime.ru and masterani.me.
 Name: NineAnimator
 Author: Marcus Zhou
@@ -20,6 +22,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.struggling.darkify.deb
 Size: 5049304
 MD5sum: 26ae12f083903e980dd00c176cf1d6f6
+SHA1: 61B6DA01CA100C71CBE79DBAACD83194A1089AFB
+SHA256: C84E321FEAD24A913391BBE71BD235113D447F177F407CDE4C409323BC801469
 Description: Darkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons.
 Name: Darkify
 Author: StrugglingDoge
